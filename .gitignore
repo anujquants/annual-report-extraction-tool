@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# generated output workbooks
+outputs/*.xlsx
+!outputs/.gitkeep
+
+# sample annual reports (large, and possibly not yours to redistribute)
+sample_data/*.pdf
+sample_data/*.jpg
+sample_data/*.jpeg
+sample_data/*.png
+!sample_data/.gitkeep
+
+.DS_Store
