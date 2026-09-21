@@ -178,6 +178,3 @@ annual report PDF (prose pages + whitespace-aligned statements) used as an
 end-to-end fixture, so the full pipeline can be exercised without needing a
 real company's report in the repo.
 
-## License
-
-MIT — see `LICENSE`.
